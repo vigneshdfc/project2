@@ -1,0 +1,72 @@
+body{         
+    text-align:left;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: none;
+    font-size: large;
+    /* color:black;   */
+    background-image: url('space.jpg');
+}
+
+
+*{
+    box-sizing: border-box;
+}
+*{
+    text-align: center;
+}
+.container{
+    width: 25%;
+    height:37%;
+    margin: 20px auto;
+    padding: 27px;;
+    text-align: center;
+    border-style:outset;
+    border-color:1px  lightpink;
+    background-color: none;   
+}
+
+h1{
+    margin: 0%;
+            padding: 1%;
+            border-style: none;
+            text-align: center;
+            color: black;
+    color: whitesmoke;
+}
+input{
+    color: red;
+    
+}
+label{
+    margin: 1px;
+    padding: 5px;
+    color: wheat;
+    font-size: larger;
+    float:left;
+
+}
+.head2 h3{
+    color: white;
+    background-color:none;
+}
+.name input{
+    width: 250px;
+    background-color:  pink;
+}
+.mail input{
+    width: 250px;
+    background-color: pink;
+}
+.password input{
+    width: 250px;
+    color: lightgrey;
+    background-color: pink;
+}
+.number input{
+    width: 250px;
+    background-color: pink;
+}
+.city input{
+    width: 250px;
+    background-color: pink;
+}
